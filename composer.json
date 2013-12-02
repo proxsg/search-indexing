@@ -1,0 +1,20 @@
+{
+    "name": "proximity-sg/search-indexing",
+    "description": "",
+    "authors": [
+        {
+            "name": "ProximitySg",
+            "email": "developer@proximity.com.sg"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "ProximitySg\\SearchIndexing": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
